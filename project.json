@@ -1,0 +1,10 @@
+{
+  "name": "<<kaluua01-cosmos-training - sames as maven artifactid>>",
+  "packaging" : {
+  "status_page" : "/status",
+  "application_port" : "8080",
+  "type" : "war",
+  "requires" : ["java-1.7.0-openjdk"]
+
+  }
+}
